@@ -1,5 +1,4 @@
 # my_universe
- App - My universe 
 
 <div align="center">
  <h2>Project updated to null-safety</h2>
